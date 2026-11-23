@@ -6329,6 +6329,7 @@ Parthiv Saikia
 - [Kyle Starrett](https://github.com/kylestarrett1)
 - [Osama Ahmad](https://github.com/oahmadgit)
 - [Miguel Vela](https://github.com/miguelarian)
+- [Aut0matix](https://github.com/Aut0matix)
 - [Guillaume Muller](https://github.com/gmuller-dev)
 - [Jules Reego Rufo](https://github.com/julesrufo26)
 - [Reiner Balschun](https://github.com/ReinerBalschun)
